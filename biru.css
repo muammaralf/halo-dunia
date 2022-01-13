@@ -1,5 +1,5 @@
 body {
-	background-color: lightblue;
+	background-color: pitch-range;
 }
 
 h1 {
@@ -8,5 +8,16 @@ h1 {
 }
 
 p {
-	color: red;
+	color: black;
 	margin-left: 40px;
+	text-align : justify;
+}
+
+.box{
+	
+	width :800px;
+}
+
+h3{
+	margin-left : 10px;
+}
